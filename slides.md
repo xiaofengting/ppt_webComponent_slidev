@@ -1,7 +1,6 @@
 ---
 theme: default
 class: text-center
-download: true
 title: Web Component 分享
 ---
 
@@ -429,7 +428,11 @@ shadow DOM 可以引入样式，如 `<style>`、`<link rel="stylesheet">`。
 使用：`color: var(--user-card-field-color, black);`
 
 
+---
+
 # 引入外部样式的三种方法
+
+&nbsp;
 
 https://www.zhangxinxu.com/wordpress/2021/02/web-components-import-css
 
